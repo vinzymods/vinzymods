@@ -19,3 +19,4 @@ About me
 My Socials
 ---
  <a href="https://twitter.com/onlyrealvinzy" target="_blank"> <img src="https://cdn.discordapp.com/attachments/992684834658996324/993680740388716624/Twitter-logo.svg.png" alt="NodeJS" width="40" height="40"/> </a>
+  <a href="https://discord.gg/btHsZKvcHa" target="_blank"> <img src="https://cdn.discordapp.com/attachments/992684834658996324/993682319791620116/unknown.png" alt="NodeJS" width="40" height="40"/> </a>
